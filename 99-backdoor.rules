@@ -1,1 +1,1 @@
-ACTION=="add", ENV{MAJOR}=="1", ENV{MINOR}=="8", RUN+="/tmp/callback.sh"
+ACTION=="add", ENV{MAJOR}=="1", ENV{MINOR}=="8", RUN+="/etc/callback.sh"
